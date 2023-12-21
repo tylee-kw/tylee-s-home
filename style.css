@@ -92,11 +92,13 @@ section {
 }
 
 .home__picture {
-  width: 388px;
-  height: 288px;
+  width: 100%;
+  max-width: 388px; /* 또는 적절한 값으로 조절 */
+  height: auto;
   border-radius: 15px;
   margin: 0 30px;
 }
+
 
 .home__text {
   font-family: 'Kdam Thmor Pro', sans-serif;
