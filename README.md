@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>LeeTaeYeon intro</title>
     <!--링크에 아이콘 걸기-->
-    <link rel="icon" type="image/jpg" href="imgs/realme.jpg" />
+    <link rel="icon" type="image/jpg" href="/imgs/realme.jpg" />
     <link rel="stylesheet" href="style.css" />
   </head>
 
